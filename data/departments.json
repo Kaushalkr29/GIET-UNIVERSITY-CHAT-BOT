@@ -1,0 +1,227 @@
+{
+  "file_name": "departments.json",
+  "institution": {
+    "name": "GIET University, Gunupur",
+    "full_name": "Gandhi Institute of Engineering and Technology University, Odisha, Gunupur",
+    "location": "At - Gobriguda, Po - Kharling, Dist. - Rayagada, Odisha, India, 765022",
+    "website": "https://www.giet.edu/",
+    "admission_enquiry": {
+      "phone_whatsapp": "7735745535"
+    },
+    "contact": {
+      "phone_numbers": [
+        "+91-8118053001",
+        "06857-250170",
+        "06857-250172"
+      ],
+      "contact_page": "https://contact.giet.edu/",
+      "corporate_office": "BDA House No. HIG - 42A, Baramunda, Bhubaneswar, Dist - Khorda, Odisha, India"
+    }
+  },
+  "training_and_development": {
+    "department_or_function": "Training and Development Department / Division of Human Resources",
+    "trainers": [],
+    "trainer_note": "Named trainers were not found in the public sources checked. The official Training & Development page describes training opportunities and providers but does not list individual trainer names in the search result content.",
+    "training_focus_areas_from_public_source": [
+      "Individual and group performance improvement",
+      "Employee skill development",
+      "Leadership effectiveness",
+      "Student employability and future-ready skills",
+      "Coordination, leadership skills, problem solving, decision making and global work-environment knowledge",
+      "Online learning packages",
+      "Department and institution lectures and seminars"
+    ],
+    "source": "https://www.giet.edu/training-development/"
+  },
+  "departments": [
+    {
+      "department_name": "Computer Science and Engineering",
+      "courses_or_programmes": [
+        "B.Tech Computer Science and Engineering",
+        "M.Tech Computer Science and Engineering",
+        "Ph.D. Technical programmes"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Computer Science and Engineering (AI & ML)",
+      "courses_or_programmes": [
+        "B.Tech CSE in AI & ML",
+        "B.Tech Lateral Entry AI & ML"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Computer Science and Engineering (Data Science)",
+      "courses_or_programmes": [
+        "B.Tech CSE in Data Science",
+        "B.Tech Lateral Entry Data Science"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Computer Science and Engineering (Cyber Security)",
+      "courses_or_programmes": [
+        "B.Tech CSE in Cyber Security"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Mechanical Engineering",
+      "courses_or_programmes": [
+        "B.Tech Mechanical Engineering",
+        "M.Tech Heat Power and Thermal Engineering",
+        "M.Tech Machine Design",
+        "M.Tech Manufacturing Technology",
+        "B.Tech Lateral Entry - other than CSE"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Biotechnology",
+      "courses_or_programmes": [
+        "B.Tech Biotechnology",
+        "M.Tech Biotechnology",
+        "M.Sc Biotechnology"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Civil Engineering",
+      "courses_or_programmes": [
+        "B.Tech Civil Engineering",
+        "M.Tech Structural Engineering",
+        "M.Tech Construction Technology and Management",
+        "B.Tech Lateral Entry - other than CSE"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Chemical Engineering",
+      "courses_or_programmes": [
+        "B.Tech Chemical Engineering",
+        "B.Tech Lateral Entry - other than CSE"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Electrical Engineering",
+      "courses_or_programmes": [
+        "B.Tech Electrical Engineering",
+        "M.Tech Power Electronics Engineering",
+        "B.Tech Lateral Entry - other than CSE"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Electrical and Electronics Engineering",
+      "courses_or_programmes": [
+        "B.Tech Electrical and Electronics Engineering",
+        "B.Tech Lateral Entry - other than CSE"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Electronics and Communication Engineering",
+      "courses_or_programmes": [
+        "B.Tech Electronics and Communication Engineering",
+        "ECE (VLSI Design)",
+        "ECE (ACT)",
+        "M.Tech VLSI Technology",
+        "M.Tech Advanced Communication Technology",
+        "B.Tech Lateral Entry - other than CSE"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Computer Science and Application",
+      "courses_or_programmes": [
+        "BCA",
+        "MCA"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Humanities and Social Sciences",
+      "courses_or_programmes": [
+        "M.A. English",
+        "M.A. Economics",
+        "M.A. Sociology",
+        "MSW",
+        "BBA",
+        "MBA"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Basic Science and Humanities",
+      "courses_or_programmes": [
+        "M.Sc Physics",
+        "M.Sc Chemistry",
+        "M.Sc Life Sciences",
+        "M.Sc Mathematics"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "Agriculture / Agricultural Sciences",
+      "courses_or_programmes": [
+        "B.Sc Agriculture (Hons.)",
+        "M.Sc Agriculture"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Listed in fee/course information; use central university contact/admission channels unless department-specific contact is officially published."
+    },
+    {
+      "department_name": "School/Department of Nursing",
+      "courses_or_programmes": [
+        "B.Sc Nursing",
+        "Post Basic B.Sc Nursing"
+      ],
+      "trainers_or_faculty_contacts": [],
+      "contact_detail": "Listed in fee/course and examination notice information; use central university contact/admission channels unless department-specific contact is officially published."
+    }
+  ],
+  "data_quality_notes": [
+    "Department names are based on the official GIET University departments page search result content.",
+    "Contact details are based on the official GIET University contact page search result content.",
+    "Course/programme mappings are based on public GIET departments plus the GIET fee-structure/course information found earlier. Some department-to-course mappings are normalized for student reference and should be verified from the latest official prospectus/admission office before formal use.",
+    "Named trainers were not located in the public search results; trainer arrays are intentionally left empty rather than fabricated."
+  ],
+  "sources": [
+    {
+      "title": "Departments - GIET University",
+      "url": "https://www.giet.edu/departments/"
+    },
+    {
+      "title": "GIET University Contact Page",
+      "url": "https://contact.giet.edu/"
+    },
+    {
+      "title": "Training & Development - Career - GIET University",
+      "url": "https://www.giet.edu/training-development/"
+    },
+    {
+      "title": "GIET University Programmes & Fee Structure",
+      "url": "https://www.giet.edu/admissions/programmes-fee-structure/"
+    },
+    {
+      "title": "GIET University official website",
+      "url": "https://www.giet.edu/"
+    }
+  ]
+}

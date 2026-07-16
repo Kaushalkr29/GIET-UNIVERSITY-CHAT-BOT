@@ -1,0 +1,124 @@
+PLACEMENT_RULES.TXT
+Attendance and Project Requirements for Placement
+Institution context: GIET University, Gunupur
+
+DISCLAIMER
+This is a placement-rules draft/template prepared from publicly available placement-related information and general placement-readiness practices. I found official GIET University placement pages and placement-record/notice pages, but I did not find a public official document that explicitly states exact attendance percentage or project-completion percentage requirements for placement. Therefore, the attendance and project rules below are written as recommended rules to be verified by the Training & Placement Cell / department before official use.
+
+1. PURPOSE
+The purpose of these placement rules is to define minimum student readiness requirements before participating in campus placement drives. The rules focus on attendance, academic readiness, project completion, placement training participation, discipline, documentation and company-specific eligibility.
+
+2. PLACEMENT ELIGIBILITY - GENERAL RULES
+2.1 A student should be enrolled in an eligible course and batch announced for the respective placement drive.
+2.2 A student must satisfy the company-specific eligibility criteria shared for that drive, such as branch, degree, academic percentage/CGPA, backlog status, graduation year, skill set and location preference.
+2.3 A student must register for the placement drive within the timeline announced by the Training & Placement Cell.
+2.4 Registration details must be accurate. Incorrect academic details, false declarations or duplicate registrations may lead to removal from the drive.
+2.5 Students should check official notices, emails, portals or department communication regularly for placement updates.
+
+3. ATTENDANCE REQUIREMENTS
+3.1 Recommended minimum academic attendance: 75% overall attendance in current semester/year.
+3.2 Recommended minimum placement-training attendance: 80% attendance in placement-preparation sessions such as aptitude training, technical training, communication training, mock interviews, group discussions and resume-building sessions.
+3.3 Students with attendance below the recommended level should obtain written approval from the department/T&P Cell before appearing for placement drives.
+3.4 Medical or emergency attendance exceptions should be supported by valid documents and approved by the competent authority.
+3.5 Attendance shortage may affect eligibility for campus drives if the department or company requires strict attendance compliance.
+
+4. PROJECT REQUIREMENTS
+4.1 Final-year project or major academic project should be registered with the department and approved by the project guide.
+4.2 Students should maintain a clear project title, problem statement, objectives, technology stack, implementation plan and expected outcome.
+4.3 Project work should show measurable progress before placement interviews. Recommended minimum progress before active placement season: 60% completion or a working prototype/demo, where applicable.
+4.4 Students should prepare a short project explanation covering:
+    - Problem statement
+    - Why the project is needed
+    - Tools, technologies and framework used
+    - Student's own contribution
+    - System architecture/workflow
+    - Dataset/database/API used, if any
+    - Output, results or demo screenshots
+    - Limitations and future scope
+4.5 Students should be ready to answer technical questions on their project during interviews.
+4.6 Plagiarized, copied or unverified project work should not be presented in placement interviews.
+4.7 Project source code, report, presentation and demo should be organized before interview dates.
+
+5. ACADEMIC AND BACKLOG REQUIREMENTS
+5.1 Students should meet the academic percentage/CGPA requirement specified by each company.
+5.2 Students should disclose backlog history honestly when asked.
+5.3 If a company requires no active backlog, students with active backlogs should not register unless explicitly permitted.
+5.4 Students should keep updated mark sheets, semester results and academic records ready.
+
+6. PLACEMENT TRAINING REQUIREMENTS
+6.1 Students are expected to participate sincerely in training activities arranged by the institution.
+6.2 Recommended preparation areas:
+    - Aptitude and logical reasoning
+    - Coding/programming fundamentals
+    - Core subject basics
+    - Database, operating system, networking and OOP concepts for technical roles
+    - Communication skills
+    - Resume preparation
+    - Group discussion and interview practice
+6.3 Students should complete assigned tests, assignments, mock interviews or assessments before the deadline.
+
+7. DOCUMENT REQUIREMENTS
+Students should keep the following documents ready:
+    - Updated resume
+    - Passport-size photograph
+    - College ID card
+    - Government ID proof
+    - 10th mark sheet/certificate
+    - 12th/diploma mark sheet/certificate
+    - Semester-wise mark sheets
+    - Internship certificates, if any
+    - Project report or project summary
+    - Skill certificates, if any
+    - LinkedIn/GitHub/portfolio link, if applicable
+
+8. CONDUCT DURING PLACEMENT DRIVES
+8.1 Students must follow instructions given by the Training & Placement Cell and company representatives.
+8.2 Students should join pre-placement talks, tests, interviews and document-verification sessions on time.
+8.3 Misconduct, impersonation, cheating in online/offline tests, rude behavior or sharing confidential test content may lead to disqualification.
+8.4 Students should maintain professional dress code and communication standards.
+8.5 Once registered for a drive, students should not remain absent without prior approval.
+
+9. OFFER AND SELECTION RULES
+9.1 Students should read offer details such as designation, CTC, bond/service agreement, location, probation/training period and joining conditions carefully.
+9.2 Students should not accept an offer without understanding company terms.
+9.3 If the institution follows a one-student-one-offer rule or dream/super-dream company rule, students must follow the rule communicated by the placement cell.
+9.4 Withdrawal after selection should be avoided unless there is a valid reason and approval from the Training & Placement Cell.
+
+10. PROJECT INTERVIEW CHECKLIST
+Before attending technical interviews, each student should be able to answer:
+    - What problem does your project solve?
+    - What was your individual contribution?
+    - Which technologies did you use and why?
+    - What database/model/API did you use?
+    - What are the main modules/features?
+    - What challenges did you face?
+    - How did you test or validate the project?
+    - What improvements can be added in future?
+
+11. ATTENDANCE AND PROJECT COMPLIANCE DECLARATION
+Student declaration template:
+I confirm that my academic attendance, placement-training attendance and project work status are true to the best of my knowledge. I understand that false information, incomplete documentation, misconduct or failure to meet company/institution criteria may lead to disqualification from placement activities.
+
+Student Name: ______________________
+Roll Number: _______________________
+Branch/Course: _____________________
+Current Attendance: _________________
+Project Title: ______________________
+Project Guide: ______________________
+Project Completion Status: __________
+Signature: _________________________
+Date: ______________________________
+
+12. SOURCE NOTES
+Public sources found:
+1. GIET University official website mentions placement focus and industry/corporate partnerships for eligible students.
+2. GIET University placement records page lists placement records for batches such as 2023-24, 2022-23, 2021-22 and 2020-21.
+3. GIET/Gandhi Institute for Education and Technology placement notice page lists campus-drive notices for eligible batches and courses.
+4. An internal campus recruitment process reference from LTIMindtree mentions that campus drives share eligibility criteria, company profile and compensation details with colleges, and colleges confirm eligible/interested student counts. This is used only as general campus-recruitment process context, not as GIET University policy.
+
+Official/public URLs to verify latest rules:
+- https://www.giet.edu/
+- https://www.giet.edu/placements/placement-records/
+- https://giet.edu.in/placement-notice/
+
+END OF DOCUMENT
